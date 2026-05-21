@@ -39,3 +39,26 @@ Framework Preset: Vite
 Build Command: npm run build  
 Output Directory: dist  
 Install Command: npm install
+
+
+## Client contact update
+
+WhatsApp and call buttons have been removed. The website now keeps email links only. Email links open a message to:
+
+noelsabuni@yahoo.com
+
+## Replace files in existing GitHub repo
+
+Upload/replace these files only:
+
+- index.html
+- package.json
+- package-lock.json
+- vercel.json
+- .gitignore
+- README.md
+
+Do not upload:
+
+- node_modules
+- dist
