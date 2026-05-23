@@ -62,3 +62,12 @@ Do not upload:
 
 - node_modules
 - dist
+
+
+Update: Footer has been made compact and includes the Isaac Sabuni website credit/call button.
+
+
+Stable theme update: light/dark mode now uses event-based switching only, with no repeating repaint timers.
+
+
+Update: Full Kiswahili translation coverage added for visible website text, including footer and creator credit.
